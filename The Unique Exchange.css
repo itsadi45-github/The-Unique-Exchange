@@ -226,6 +226,8 @@ a {
     align-items: center;
     padding: 0px 0px 0px 0px;
     margin: 0px 0px 0px 0px;
+    width: 170px;
+    border-radius: 5px;
     /* position: relative;
     left: 30px;
     top: 4px; */
@@ -308,7 +310,8 @@ a {
     align-items: center;
     margin: 4px 0px 0px 60px;
 }
-.elect img{
+
+.elect img {
     height: 150px;
     width: 130px;
     display: flex;
@@ -507,4 +510,13 @@ a {
 
 .footer-bottom p {
     margin: 20px;
+}
+
+.laptop_for_test img {
+    width: 205px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    /* position: relative; */
+    margin: -17px 0px 0px 30px;
 }
